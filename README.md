@@ -2,7 +2,7 @@
 
 
 
-- So after downloading the file, let's run a file command to see what type binarie it is"ELF 64-bit MSB" and i don't understand this "*unknown arch 0x3e00*(SYSV)".
+- So after downloading the file, let's run a file command to see what type binarie it is.it's"ELF 64-bit MSB" and i don't understand this "*unknown arch 0x3e00*(SYSV)".
 ![Source](https://github.com/b3ng0x/THM-easy-reverse/blob/main/1.png?raw=true)
 - So let's google it and i find this good site "https://pentester.blog/?p=247"
 - After reading it we need to change the 6th bit from 2 to 1 and I use hexedit for that
